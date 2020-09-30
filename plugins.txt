@@ -7,3 +7,6 @@ docker-build-step
 dockerhub-notification
 oauth-credentials
 allure
+ws-cleanup
+test-results-analyzer
+htmlpublisher
